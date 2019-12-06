@@ -16,6 +16,8 @@
 
 Insta Hacker is a python based Script. You can use this script for hacking Instagram (bruteforce). 
 
+![](https://github.com/Stephin-Franklin/Hack-Insta/blob/master/Screenshot_20191207-024415.png)
+
 ### INSTA H4CK3R is available for
 
 • Termux
