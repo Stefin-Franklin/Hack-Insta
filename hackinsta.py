@@ -79,7 +79,7 @@ class Instabrute():
 	def IsUserExists(self):
 		r = requests.get('https://www.instagram.com/%s/?__a=1' % self.username) 
 		if (r.status_code == 404):
-			print ('[*] User named "%s" not found' % username)
+			print ('[*] User named "ano_nimoquirino" not found' % username)
 			Input('[*] Press enter to exit')
 			exit()
 		elif (r.status_code == 200):
